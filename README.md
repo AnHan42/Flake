@@ -1,4 +1,4 @@
-#FLAKE: Secure Multi-Party Computation (SMPC) with Randomized Encoding protocol
+# FLAKE: Secure Multi-Party Computation (SMPC) with Randomized Encoding protocol
 
 `FLAKE` provides a secure SMPC framework for multiple parties (distributed learning) using randomized encoding for kernel-based machine learning models. It enables multiple parties to collaboratively train kernel-based machine learning models without compromising data privacy in a semi-honest adversary setting. 
 THis is the code for the paper: [A Privacy-Preserving Framework for Collaborative Machine Learning with Kernel Methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10431639)
